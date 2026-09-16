@@ -10,3 +10,13 @@ This repository demonstrates:
 - Feature flags
 
 Created for coursework assignment.
+
+## New Feature
+
+This feature demonstrates the use of Git feature branches in a collaborative workflow.
+
+### Benefits
+
+- Isolates development work
+- Simplifies code reviews
+- Reduces risk to the main branch
