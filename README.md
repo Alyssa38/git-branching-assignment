@@ -20,3 +20,7 @@ This feature demonstrates the use of Git feature branches in a collaborative wor
 - Isolates development work
 - Simplifies code reviews
 - Reduces risk to the main branch
+
+### Why Use Feature Branches?
+
+Feature branches allow developers to work independently without affecting the main branch. This reduces the risk of introducing unstable code and makes code reviews easier before changes are merged.
