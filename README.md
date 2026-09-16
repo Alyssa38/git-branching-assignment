@@ -31,6 +31,24 @@ This release demonstrates trunk-based development practices.
 
 ### Release Highlights
 
+## Feature Flag Implementation
+
+A feature flag has been added using a configuration file.
+
+Feature: newDashboard
+
+Configuration:
+
+{
+  "featureFlags": {
+    "newDashboard": true
+  }
+}
+
+Purpose:
+
+Feature flags allow teams to enable or disable functionality without deploying new code.
+
 - Completed feature branch workflow
 - Performed code review process
 - Merged changes into the main branch
